@@ -1,47 +1,75 @@
-# Business — Generative Engine Optimization Map
+# אושר מחשבים — Generative Engine Optimization Map
+
+> שלום, שמי אושר ואני הבעלים של מעבדת אושר מחשבים. אני חי ונושם את עולם המחשבים והטכנולוגיה למעלה מעשר. לאחר ניסיון רב בעבודה במעבדות גדולות החלטתי לצאת לדרך עצמאית והקמתי את מעבדת אושר מחשבים. אושר מחשבים היא הבחירה הנכונה ביותר עבורכם במקום ללכת ולשפוך כסף על מחשב חדש אתם יכולים לתקן את הישן.
 
 ---
 
 ## Pages
 
 ### דף הבית
-https://osher-machshavim.zappy5.app/page-1766905009136
+https://zappy-site-61091627-fbb3-4439-a954.onrender.com/page-1766905009136
 מחפשים טכנאי מחשבים אמין? אושר מחשבים מציעה תיקון מחשבים עד הבית, שירות מהיר ומקצועי. התקשרו עכשיו!
 
 ### שירותים
-https://osher-machshavim.zappy5.app/services
+https://zappy-site-61091627-fbb3-4439-a954.onrender.com/services
 שירותי טכנאי מחשבים מקצועיים: תיקון מחשבים עד הבית, החלפת מסך למחשב נייד, שדרוג מחשבים ועוד. שירות מהיר ואמין!
 
 ### אודות
-https://osher-machshavim.zappy5.app/about
+https://zappy-site-61091627-fbb3-4439-a954.onrender.com/about
 הכירו את אושר - טכנאי מחשבים עם למעלה מעשר שנות ניסיון. מעבדת אושר מחשבים מציעה תיקון מחשבים עד הבית במקצועיות מלאה.
 
 ### צור קשר
-https://osher-machshavim.zappy5.app/contact
+https://zappy-site-61091627-fbb3-4439-a954.onrender.com/contact
 צרו קשר עם אושר מחשבים לשירותי טכנאי מחשבים מקצועיים. תיקון מחשבים עד הבית, שירות מהיר ואמין. התקשרו עכשיו!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://osher-machshavim.zappy5.app/privacy
+https://zappy-site-61091627-fbb3-4439-a954.onrender.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://osher-machshavim.zappy5.app/terms
+https://zappy-site-61091627-fbb3-4439-a954.onrender.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://osher-machshavim.zappy5.app/accessibility
+https://zappy-site-61091627-fbb3-4439-a954.onrender.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About אושר מחשבים
+שלום, שמי אושר ואני הבעלים של מעבדת אושר מחשבים. אני חי ונושם את עולם המחשבים והטכנולוגיה למעלה מעשר. לאחר ניסיון רב בעבודה במעבדות גדולות החלטתי לצאת לדרך עצמאית והקמתי את מעבדת אושר מחשבים. אושר מחשבים היא הבחירה הנכונה ביותר עבורכם במקום ללכת ולשפוך כסף על מחשב חדש אתם יכולים לתקן את הישן.
+
+## Services/Products
+- תיקון מחשבים נייחים וניידים
+- שדרוג מחשבים
+- שיחזור מידע/גיבוי נתונים
+- החלפת צג/חלקים פנימיים
+- טיפול בווירוסים ורוגלות
+- שחזור והתקנת מערכת הפעלה
+- התקנת ציוד היקפי
+- תיקון מחשבים ניידים
+- טכנאי מחשבים עד הבית
+- תחזוקת מחשבים לעסק
+- החלפת מסך למחשב נייד
+- החלפת ספק כוח למחשב
+
+## Target Audience
+- סטודנטים לטכנולוגיה
+- עובדים מרחוק
+- בעלי עסקים קטנים
+- גיימרים
+- משתמשים ותיקים בטכנולוגיה
+
+## Industry
+שירותי תיקון מחשבים וטכנולוגיה
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://osher-machshavim.zappy5.app/sitemap.xml
-- **Robots.txt**: https://osher-machshavim.zappy5.app/robots.txt
+- **Sitemap**: https://zappy-site-61091627-fbb3-4439-a954.onrender.com/sitemap.xml
+- **Robots.txt**: https://zappy-site-61091627-fbb3-4439-a954.onrender.com/robots.txt
