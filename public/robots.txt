@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://zappy-site-61091627-fbb3-4439-a954.onrender.com/sitemap.xml
+Sitemap: https://osher-machshavim.zappy5.app/sitemap.xml
